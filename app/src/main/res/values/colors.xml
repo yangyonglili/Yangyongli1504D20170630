@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bule">#3651B5</color>
+    <color name="tian_bule">#12c7d7</color>
+    <color name="pink_red">#FF4081</color>
+    <color name="hui">#fd575654</color>
+    <color name="yellw">#eecc0b</color>
+    <color name="orange">#eb8c11</color>
+    <color name="zi">#8117c3</color>
+    <color name="red">#dd0b2a</color>
+    <color name="green">#2ac619</color>
+</resources>
